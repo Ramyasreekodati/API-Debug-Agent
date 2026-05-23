@@ -1,0 +1,60 @@
+2026-05-23 12:00:01 INFO /login 200 95ms User login successful
+2026-05-23 12:00:04 INFO /products 200 110ms Product catalog loaded
+2026-05-23 12:00:08 ERROR /payment 500 4200ms Database connection timeout
+2026-05-23 12:00:12 ERROR /orders 502 5100ms Bad gateway from order service
+2026-05-23 12:00:16 WARNING /search 429 820ms Too many requests detected
+2026-05-23 12:00:20 INFO /dashboard 200 135ms Dashboard rendered
+2026-05-23 12:00:24 ERROR /inventory 503 6200ms Inventory service unavailable
+2026-05-23 12:00:28 INFO /profile 200 145ms Profile data fetched
+2026-05-23 12:00:32 ERROR /checkout 500 4700ms Payment validation failed
+2026-05-23 12:00:36 WARNING /auth 401 310ms Unauthorized API token
+2026-05-23 12:00:40 INFO /notifications 200 88ms Notifications synced
+2026-05-23 12:00:44 ERROR /payment 504 6800ms Upstream timeout detected
+2026-05-23 12:00:48 INFO /home 200 102ms Homepage loaded
+2026-05-23 12:00:52 ERROR /orders 500 3900ms SQL query timeout
+2026-05-23 12:00:56 WARNING /search 429 790ms API rate limit exceeded
+2026-05-23 12:01:00 INFO /products 200 115ms Product API healthy
+2026-05-23 12:01:04 ERROR /inventory 502 5400ms Dependency API failure
+2026-05-23 12:01:08 INFO /dashboard 200 128ms Dashboard widgets loaded
+2026-05-23 12:01:12 ERROR /checkout 503 5600ms Checkout service overloaded
+2026-05-23 12:01:16 WARNING /auth 403 295ms Forbidden access request
+2026-05-23 12:01:20 INFO /profile 200 138ms User profile updated
+2026-05-23 12:01:24 ERROR /payment 500 4500ms Transaction rollback failure
+2026-05-23 12:01:28 INFO /home 200 99ms Home API response success
+2026-05-23 12:01:32 ERROR /orders 504 7100ms Backend service timeout
+2026-05-23 12:01:36 WARNING /search 429 830ms Traffic spike detected
+2026-05-23 12:01:40 INFO /notifications 200 91ms Notification polling success
+2026-05-23 12:01:44 ERROR /inventory 500 4800ms Database deadlock detected
+2026-05-23 12:01:48 INFO /products 200 107ms Product recommendation API healthy
+2026-05-23 12:01:52 ERROR /checkout 502 5300ms Gateway timeout during checkout
+2026-05-23 12:01:56 WARNING /auth 401 300ms Session token expired
+2026-05-23 12:02:00 INFO /dashboard 200 122ms Dashboard analytics loaded
+2026-05-23 12:02:04 ERROR /payment 503 5900ms Payment microservice unavailable
+2026-05-23 12:02:08 INFO /profile 200 136ms Profile cache refreshed
+2026-05-23 12:02:12 ERROR /orders 500 4300ms Database lock timeout
+2026-05-23 12:02:16 WARNING /search 429 860ms Request throttling triggered
+2026-05-23 12:02:20 INFO /home 200 101ms Landing page rendered
+2026-05-23 12:02:24 ERROR /inventory 504 6700ms Cache synchronization timeout
+2026-05-23 12:02:28 INFO /notifications 200 89ms Push notification success
+2026-05-23 12:02:32 ERROR /checkout 500 4900ms Invalid transaction state
+2026-05-23 12:02:36 WARNING /auth 403 320ms Access denied by security policy
+2026-05-23 12:02:40 INFO /products 200 112ms Product endpoint stable
+2026-05-23 12:02:44 ERROR /payment 502 5200ms API dependency unavailable
+2026-05-23 12:02:48 INFO /dashboard 200 118ms Monitoring widgets refreshed
+2026-05-23 12:02:52 ERROR /orders 503 6100ms Service degradation detected
+2026-05-23 12:02:56 WARNING /search 429 875ms Request flood detected
+2026-05-23 12:03:00 INFO /profile 200 131ms User preferences loaded
+2026-05-23 12:03:04 ERROR /inventory 500 4600ms Replication lag detected
+2026-05-23 12:03:08 INFO /home 200 96ms CDN cache hit
+2026-05-23 12:03:12 ERROR /checkout 504 7200ms Upstream API timeout
+2026-05-23 12:03:16 WARNING /auth 401 305ms Invalid authentication credentials
+2026-05-23 12:03:20 ERROR /payment 500 4800ms Connection pool exhausted
+2026-05-23 12:03:24 ERROR /orders 502 5500ms API gateway communication failure
+2026-05-23 12:03:28 ERROR /inventory 503 6300ms Inventory synchronization failed
+2026-05-23 12:03:32 ERROR /checkout 500 5100ms Checkout transaction aborted
+2026-05-23 12:03:36 WARNING /search 429 900ms Excessive traffic rate detected
+2026-05-23 12:03:40 ERROR /payment 504 7600ms Payment gateway upstream timeout
+2026-05-23 12:03:44 ERROR /orders 500 4400ms Slow query execution detected
+2026-05-23 12:03:48 ERROR /inventory 502 5700ms Failed dependency health check
+2026-05-23 12:03:52 ERROR /checkout 503 6100ms Service resource exhaustion
+2026-05-23 12:03:56 WARNING /auth 403 315ms Unauthorized admin access attempt
