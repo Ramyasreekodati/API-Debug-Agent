@@ -1,0 +1,50 @@
+2026-05-23 11:00:01 INFO /login 200 95ms
+2026-05-23 11:00:05 INFO /products 200 110ms
+2026-05-23 11:00:08 ERROR /payment 500 4200ms Database connection timeout
+2026-05-23 11:00:12 ERROR /orders 502 5100ms Bad gateway
+2026-05-23 11:00:15 WARNING /search 429 850ms Too many requests
+2026-05-23 11:00:20 INFO /dashboard 200 130ms
+2026-05-23 11:00:24 ERROR /inventory 503 6200ms Inventory service unavailable
+2026-05-23 11:00:28 INFO /profile 200 145ms
+2026-05-23 11:00:31 ERROR /checkout 500 4700ms Payment validation failed
+2026-05-23 11:00:35 WARNING /auth 401 310ms Unauthorized token
+2026-05-23 11:00:40 INFO /notifications 200 90ms
+2026-05-23 11:00:45 ERROR /payment 504 6800ms Upstream timeout
+2026-05-23 11:00:50 INFO /home 200 100ms
+2026-05-23 11:00:55 ERROR /orders 500 3900ms SQL query timeout
+2026-05-23 11:01:00 WARNING /search 429 780ms Rate limit exceeded
+2026-05-23 11:01:05 INFO /products 200 105ms
+2026-05-23 11:01:10 ERROR /inventory 502 5400ms Dependency API failure
+2026-05-23 11:01:15 INFO /dashboard 200 125ms
+2026-05-23 11:01:18 ERROR /checkout 503 5600ms Service overloaded
+2026-05-23 11:01:22 WARNING /auth 403 295ms Forbidden request
+2026-05-23 11:01:28 INFO /profile 200 140ms
+2026-05-23 11:01:35 ERROR /payment 500 4500ms Transaction rollback detected
+2026-05-23 11:01:40 INFO /home 200 98ms
+2026-05-23 11:01:45 ERROR /orders 504 7100ms Backend response timeout
+2026-05-23 11:01:50 WARNING /search 429 820ms Traffic spike detected
+2026-05-23 11:01:55 INFO /notifications 200 92ms
+2026-05-23 11:02:00 ERROR /inventory 500 4800ms Database deadlock
+2026-05-23 11:02:06 INFO /products 200 108ms
+2026-05-23 11:02:10 ERROR /checkout 502 5300ms Gateway timeout
+2026-05-23 11:02:15 WARNING /auth 401 300ms Session expired
+2026-05-23 11:02:20 INFO /dashboard 200 120ms
+2026-05-23 11:02:25 ERROR /payment 503 5900ms Payment microservice unavailable
+2026-05-23 11:02:30 INFO /profile 200 138ms
+2026-05-23 11:02:35 ERROR /orders 500 4300ms Database lock timeout
+2026-05-23 11:02:40 WARNING /search 429 860ms Too many requests
+2026-05-23 11:02:45 INFO /home 200 102ms
+2026-05-23 11:02:50 ERROR /inventory 504 6700ms Cache synchronization timeout
+2026-05-23 11:02:55 INFO /notifications 200 88ms
+2026-05-23 11:03:00 ERROR /checkout 500 4900ms Invalid transaction state
+2026-05-23 11:03:05 WARNING /auth 403 320ms Access denied
+2026-05-23 11:03:10 INFO /products 200 112ms
+2026-05-23 11:03:15 ERROR /payment 502 5200ms API dependency unavailable
+2026-05-23 11:03:20 INFO /dashboard 200 118ms
+2026-05-23 11:03:25 ERROR /orders 503 6100ms Service degradation detected
+2026-05-23 11:03:30 WARNING /search 429 870ms Request throttled
+2026-05-23 11:03:35 INFO /profile 200 132ms
+2026-05-23 11:03:40 ERROR /inventory 500 4600ms Replication lag detected
+2026-05-23 11:03:45 INFO /home 200 97ms
+2026-05-23 11:03:50 ERROR /checkout 504 7200ms Upstream API timeout
+2026-05-23 11:03:55 WARNING /auth 401 305ms Invalid credentials

@@ -1,0 +1,54 @@
+2026-05-23 10:01:22 INFO /login 200 120ms
+2026-05-23 10:01:25 ERROR /payment 500 3200ms Database timeout
+2026-05-23 10:01:30 ERROR /orders 502 4100ms Gateway timeout
+2026-05-23 10:01:35 INFO /products 200 90ms
+2026-05-23 10:01:40 ERROR /payment 500 3500ms Database timeout
+2026-05-23 10:01:45 WARNING /search 429 800ms Rate limit exceeded
+2026-05-23 10:02:00 INFO /login 200 110ms
+2026-05-23 10:02:05 ERROR /payment 500 3000ms Database timeout
+2026-05-23 10:02:10 ERROR /orders 502 4200ms Gateway timeout
+2026-05-23 10:02:15 INFO /products 200 95ms
+2026-05-23 10:02:20 ERROR /payment 500 3400ms Database timeout
+2026-05-23 10:02:25 WARNING /search 429 820ms Rate limit exceeded
+2026-05-23 10:02:30 INFO /login 200 115ms
+2026-05-23 10:02:35 ERROR /payment 500 3300ms Database timeout
+2026-05-23 10:02:40 ERROR /orders 502 4150ms Gateway timeout
+2026-05-23 10:02:45 INFO /products 200 92ms
+2026-05-23 10:02:50 ERROR /payment 500 3600ms Database timeout
+2026-05-23 10:02:55 WARNING /search 429 810ms Rate limit exceeded
+2026-05-23 10:03:00 INFO /login 200 118ms
+2026-05-23 10:03:05 ERROR /payment 500 3100ms Database timeout
+2026-05-23 10:03:10 ERROR /orders 502 4250ms Gateway timeout
+2026-05-23 10:03:15 INFO /products 200 94ms
+2026-05-23 10:03:20 ERROR /payment 500 3450ms Database timeout
+2026-05-23 10:03:25 WARNING /search 429 830ms Rate limit exceeded
+2026-05-23 10:03:30 INFO /login 200 112ms
+2026-05-23 10:03:35 ERROR /payment 500 3200ms Database timeout
+2026-05-23 10:03:40 ERROR /orders 502 4180ms Gateway timeout
+2026-05-23 10:03:45 INFO /products 200 90ms
+2026-05-23 10:03:50 ERROR /payment 500 3550ms Database timeout
+2026-05-23 10:03:55 WARNING /search 429 840ms Rate limit exceeded
+2026-05-23 10:04:00 INFO /login 200 119ms
+2026-05-23 10:04:05 ERROR /payment 500 3050ms Database timeout
+2026-05-23 10:04:10 ERROR /orders 502 4300ms Gateway timeout
+2026-05-23 10:04:15 INFO /products 200 93ms
+2026-05-23 10:04:20 ERROR /payment 500 3400ms Database timeout
+2026-05-23 10:04:25 WARNING /search 429 820ms Rate limit exceeded
+2026-05-23 10:04:30 INFO /login 200 117ms
+2026-05-23 10:04:35 ERROR /payment 500 3150ms Database timeout
+2026-05-23 10:04:40 ERROR /orders 502 4250ms Gateway timeout
+2026-05-23 10:04:45 INFO /products 200 91ms
+2026-05-23 10:04:50 ERROR /payment 500 3500ms Database timeout
+2026-05-23 10:04:55 WARNING /search 429 830ms Rate limit exceeded
+2026-05-23 10:05:00 INFO /login 200 113ms
+2026-05-23 10:05:05 ERROR /payment 500 3000ms Database timeout
+2026-05-23 10:05:10 ERROR /orders 502 4190ms Gateway timeout
+2026-05-23 10:05:15 INFO /products 200 94ms
+2026-05-23 10:05:20 ERROR /payment 500 3450ms Database timeout
+2026-05-23 10:05:25 WARNING /search 429 825ms Rate limit exceeded
+2026-05-23 10:05:30 INFO /login 200 116ms
+2026-05-23 10:05:35 ERROR /payment 500 3100ms Database timeout
+2026-05-23 10:05:40 ERROR /orders 502 4210ms Gateway timeout
+2026-05-23 10:05:45 INFO /products 200 92ms
+2026-05-23 10:05:50 ERROR /payment 500 3520ms Database timeout
+2026-05-23 10:05:55 WARNING /search 429 835ms Rate limit exceeded
