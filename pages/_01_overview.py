@@ -6,7 +6,7 @@ from agents.middle.metrics import compute_metrics
 
 def main():
     st.title("📊 Overview")
-    uploaded_file = st.file_uploader("Upload API log file (txt)", type=["txt"]))
+    uploaded_file = st.file_uploader("Upload API log file (txt)", type=["txt"])
     if not uploaded_file:
         st.info("Upload a log file to see metrics.")
         return
