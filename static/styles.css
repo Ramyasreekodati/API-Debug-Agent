@@ -1,15 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
 body {
-    background-color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #f0f4ff, #e2e8f0);
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 
+.big-font {font-size:32px !important; font-weight:800;}
 
-/* Reduce Streamlit default padding and margins */
+.metric-card {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(8px);
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    color: #111;
+    padding: 20px;
+    text-align:center;
+    margin: 8px;
+    transition: transform 0.2s;
+}
+.metric-card:hover {transform: translateY(-3px);}
+
+.severity-banner {
+    padding: 10px;
+    border-radius: 6px;
+    color:#fff;
+    font-weight:600;
+    margin-bottom:16px;
+    background: rgba(0,0,0,0.2);
+    backdrop-filter: blur(6px);
+}
+.severity-high {background: #d9534f;}
+.severity-medium {background: #f0ad4e;}
+.severity-low {background: #5cb85c;}
+
+.ai-container {
+    background: rgba(255,255,255,0.6);
+    border: 2px solid #4a90e2;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-top: 12px;
+}
+
 .stButton button {
-    background-color: #ffeb3b !important;
+    background-color: #fbc02d !important;
     color: #000 !important;
     border: 2px solid #fbc02d;
-    font-weight: 600;
-    font-size: 1.2rem !important;
     padding: 0.6rem 1rem !important;
 }
 
